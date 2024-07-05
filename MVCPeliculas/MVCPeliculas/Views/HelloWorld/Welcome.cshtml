@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Welcome";
+}
+
+<h1>Welcome</h1>
+
+<ul>
+    @{
+        int numveces = (int)ViewData["numveces"];
+        for (int i = 0; i < numveces; i++)
+        {
+            <li>@ViewData["Nombre"]</li>
+        }
+    }
+</ul>
+
