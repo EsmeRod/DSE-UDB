@@ -1,0 +1,9 @@
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\MVCPeliculas\Persona\obj\Debug\net8.0\Persona.csproj.AssemblyReference.cache
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\MVCPeliculas\Persona\obj\Debug\net8.0\Persona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\MVCPeliculas\Persona\obj\Debug\net8.0\Persona.AssemblyInfoInputs.cache
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\MVCPeliculas\Persona\obj\Debug\net8.0\Persona.AssemblyInfo.cs
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\MVCPeliculas\Persona\obj\Debug\net8.0\Persona.csproj.CoreCompileInputs.cache
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\MVCPeliculas\Persona\obj\Debug\net8.0\Persona.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\MVCPeliculas\Persona\obj\Debug\net8.0\Persona.RazorAssemblyInfo.cache
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\MVCPeliculas\Persona\obj\Debug\net8.0\Persona.RazorAssemblyInfo.cs
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\MVCPeliculas\Persona\obj\Debug\net8.0\Persona.sourcelink.json
