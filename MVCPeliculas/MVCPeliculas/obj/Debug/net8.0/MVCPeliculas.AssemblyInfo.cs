@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCPeliculas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d917ad5853f1476b21ab6e98e8faf1d9ec5d31b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4d9aa12cd28c6a2e74848b474e872c52e3b870e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCPeliculas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCPeliculas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

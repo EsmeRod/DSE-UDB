@@ -11,10 +11,10 @@ namespace MVCPeliculas.Controllers
             return View();
         }
         //GET: /helloworld/Welcome/
-        public ActionResult Welcome(string Nombre, int numveces = 1)
+        public ActionResult Welcome(string Nombre, string Apellido, int Numveces = 1)
         {
-            ViewData["Nombre"] = "Hola" + Nombre;
-            ViewData["numveces"] = numveces;
+            ViewData["Nombre"] = "Hola "+ Nombre+" "+Apellido;
+            ViewData["numveces"] = Numveces;
             return View();
         }
     }
