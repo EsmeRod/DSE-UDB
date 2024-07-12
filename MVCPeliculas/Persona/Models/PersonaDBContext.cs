@@ -9,6 +9,4 @@ namespace Persona.Models
         }
         public DbSet<Persona> Personas { get; set; }
     }
-}
-    
-}
+}    
