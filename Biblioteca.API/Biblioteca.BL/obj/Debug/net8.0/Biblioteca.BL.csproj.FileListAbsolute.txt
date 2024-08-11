@@ -1,0 +1,12 @@
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.BL\bin\Debug\net8.0\Biblioteca.BL.deps.json
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.BL\bin\Debug\net8.0\Biblioteca.BL.dll
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.BL\bin\Debug\net8.0\Biblioteca.BL.pdb
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.BL\obj\Debug\net8.0\Biblioteca.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.BL\obj\Debug\net8.0\Biblioteca.BL.AssemblyInfoInputs.cache
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.BL\obj\Debug\net8.0\Biblioteca.BL.AssemblyInfo.cs
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.BL\obj\Debug\net8.0\Biblioteca.BL.csproj.CoreCompileInputs.cache
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.BL\obj\Debug\net8.0\Biblioteca.BL.sourcelink.json
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.BL\obj\Debug\net8.0\Biblioteca.BL.dll
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.BL\obj\Debug\net8.0\refint\Biblioteca.BL.dll
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.BL\obj\Debug\net8.0\Biblioteca.BL.pdb
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.BL\obj\Debug\net8.0\ref\Biblioteca.BL.dll

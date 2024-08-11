@@ -1,0 +1,12 @@
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.Entities\bin\Debug\net8.0\Biblioteca.Entities.deps.json
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.Entities\bin\Debug\net8.0\Biblioteca.Entities.dll
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.Entities\bin\Debug\net8.0\Biblioteca.Entities.pdb
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.AssemblyInfoInputs.cache
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.AssemblyInfo.cs
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.sourcelink.json
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.dll
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\refint\Biblioteca.Entities.dll
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.pdb
+C:\Users\Rocio.HWC-HWP-6003180\Documents\GitHub\DSE-UDB\Biblioteca.API\Biblioteca.Entities\obj\Debug\net8.0\ref\Biblioteca.Entities.dll
