@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
+#pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
+
 namespace Desafio1.Migrations
 {
     /// <inheritdoc />
@@ -47,6 +49,28 @@ namespace Desafio1.Migrations
                         principalTable: "Departamentos",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.InsertData(
+                table: "Departamentos",
+                columns: new[] { "Id", "Descripcion", "NomDep" },
+                values: new object[,]
+                {
+                    { 1, "", "Recursos Humanos" },
+                    { 2, "", "Tecnologia" },
+                    { 3, "", "Ventas" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Empleados",
+                columns: new[] { "Id", "Descripcion", "FecContr", "IDDep", "Nacimiento", "Nombre", "Salario" },
+                values: new object[,]
+                {
+                    { 1, "", new DateOnly(2010, 8, 15), 1, new DateOnly(1985, 5, 20), "John Doe", 50000m },
+                    { 2, "", new DateOnly(2015, 1, 25), 2, new DateOnly(1990, 3, 10), "Jane Smith", 70000m },
+                    { 3, "", new DateOnly(2012, 6, 18), 3, new DateOnly(1982, 11, 22), "Mark Johnson", 55000m },
+                    { 4, "", new DateOnly(2005, 10, 12), 1, new DateOnly(1978, 7, 30), "Emily Davis", 75000m },
+                    { 5, "", new DateOnly(2020, 4, 15), 2, new DateOnly(1995, 12, 5), "Michael Brown", 60000m }
                 });
 
             migrationBuilder.CreateIndex(

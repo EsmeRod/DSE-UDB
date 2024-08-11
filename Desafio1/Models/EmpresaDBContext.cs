@@ -11,10 +11,11 @@ namespace Desafio1.Models
         public DbSet<Departamento> Departamentos { get; set; }
         public DbSet<Empleado> Empleados { get; set; }
 
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.ApplyConfiguration(new DepartamentoSeed());
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new DepartamentoSeeds());
+            modelBuilder.ApplyConfiguration(new EmpleadoSeeds());
 
-        //}
+        }
     }
 }

@@ -42,6 +42,26 @@ namespace Desafio1.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Departamentos");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Descripcion = "",
+                            NomDep = "Recursos Humanos"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Descripcion = "",
+                            NomDep = "Tecnologia"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Descripcion = "",
+                            NomDep = "Ventas"
+                        });
                 });
 
             modelBuilder.Entity("Desafio1.Models.Empleado", b =>
@@ -79,6 +99,58 @@ namespace Desafio1.Migrations
                     b.HasIndex("IDDep");
 
                     b.ToTable("Empleados");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Descripcion = "",
+                            FecContr = new DateOnly(2010, 8, 15),
+                            IDDep = 1,
+                            Nacimiento = new DateOnly(1985, 5, 20),
+                            Nombre = "John Doe",
+                            Salario = 50000m
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Descripcion = "",
+                            FecContr = new DateOnly(2015, 1, 25),
+                            IDDep = 2,
+                            Nacimiento = new DateOnly(1990, 3, 10),
+                            Nombre = "Jane Smith",
+                            Salario = 70000m
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Descripcion = "",
+                            FecContr = new DateOnly(2012, 6, 18),
+                            IDDep = 3,
+                            Nacimiento = new DateOnly(1982, 11, 22),
+                            Nombre = "Mark Johnson",
+                            Salario = 55000m
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Descripcion = "",
+                            FecContr = new DateOnly(2005, 10, 12),
+                            IDDep = 1,
+                            Nacimiento = new DateOnly(1978, 7, 30),
+                            Nombre = "Emily Davis",
+                            Salario = 75000m
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Descripcion = "",
+                            FecContr = new DateOnly(2020, 4, 15),
+                            IDDep = 2,
+                            Nacimiento = new DateOnly(1995, 12, 5),
+                            Nombre = "Michael Brown",
+                            Salario = 60000m
+                        });
                 });
 
             modelBuilder.Entity("Desafio1.Models.Empleado", b =>

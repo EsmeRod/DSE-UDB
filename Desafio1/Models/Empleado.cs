@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Desafio1.Models
@@ -13,9 +14,11 @@ namespace Desafio1.Models
         public string Nombre { get; set; }
 
         [Required]
+        [Display(Name = "Fecha de Nacimiento")]
         public DateOnly Nacimiento { get; set; }
 
         [Required]
+        [Display(Name ="Fecha de Contratacion")]
         public DateOnly FecContr {  get; set; }
 
         [Required]
